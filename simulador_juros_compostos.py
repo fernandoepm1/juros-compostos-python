@@ -1,13 +1,3 @@
-# Faça um programa que calcule o retorno de um investimento financeiro
-# fazendo as contas mês a mês, sem usar a fórmula de juros compostos
-
-# 1. O usuário deve informar quanto será investido por mês e qual será
-# a taxa de juros mensal
-# 2. O programa deve informar o saldo do investimento após um ano (soma das
-# aplicações mês a mês considerando os juros compostos) e perguntar se o
-# usuário deseja calcular o do ano seguinte, sucessivamente
-# Exemplo: R$ 100,00 ao mês com uma taxa de 1% => saldo R$ 1268,25
-
 # @author = Fernando
 # @date = 07/09/2019
 
